@@ -3,6 +3,7 @@ Dataset Info
 Dataset source ->	TensorFlow Datasets	
 Train data ->	75,750 images	
 Test data	-> 25,250 
+Classes -> 101
 
 ********************
 
